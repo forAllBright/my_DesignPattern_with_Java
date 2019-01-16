@@ -1,4 +1,4 @@
-package observer_pattern;
+package observer_pattern.prac1_stockbuyer;
 
 import java.util.Random;
 

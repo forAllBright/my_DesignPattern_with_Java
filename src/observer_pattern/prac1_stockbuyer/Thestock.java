@@ -1,8 +1,8 @@
-package observer_pattern;
+package observer_pattern.prac1_stockbuyer;
 
 import java.util.ArrayList;
 
-public class Thestock implements Sstock{
+public class Thestock implements Sstock {
     ArrayList<Buyer> buyerList = new ArrayList<>();
     private float buyinprice;
     private float nowprice;

@@ -1,6 +1,6 @@
-package observer_pattern;
+package observer_pattern.prac1_stockbuyer;
 
-public class TheStockBuyers implements Buyer{
+public class TheStockBuyers implements Buyer {
     Sstock stock;
     int flag;
 
